@@ -7,7 +7,7 @@
     tools:context=".MainActivity"
     android:background="@drawable/clock_bg">
 
-    <com.bytedance.camp.chapter4.widget.Clock
+    <com.bytedance.camp.chapter4.widget.ClockView
         android:id="@+id/clock"
         android:layout_width="0dp"
         android:layout_height="0dp"
